@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinwambua&show_icons=true&theme=transparent)
-https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinwambua&layout=compact&theme=tokyonight&langs_count=10
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanehatescoding&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyOdhiambo-47&show_icons=true&theme=transparent)
