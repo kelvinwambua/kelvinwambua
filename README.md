@@ -21,7 +21,7 @@
 ### [Singularity Payments](https://payments-js.singularity.co.ke/) 
 **Type-safe M-Pesa SDK for modern JavaScript frameworks**
 -  **300+ weekly downloads** 
--  **7 GitHub stars** and growing
+-  **20 GitHub stars** and growing
 -  Built with TypeScript for compile-time safety and full IntelliSense support
 -  Framework integrations for React, Next.js, Vue, Svelte, Express
 -  Production-ready with comprehensive documentation and interactive examples
